@@ -1,6 +1,6 @@
 # ai-fancifier
 ## Description
-AI-Fancfier is a cutting-edge add-on for Google Docs that utilizes artificial intelligence to enhance and elevate the style and vocabulary of your writing
+AI-Fancfier is an add-on for Google Docs that utilizes artificial intelligence to enhance and elevate the style and vocabulary of your writing.
 ## Code
 ```Code.gs
 function main() {
